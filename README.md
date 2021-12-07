@@ -15,13 +15,15 @@ One of the interesting findings of our research would have to be how little infl
 
 Another interesting finding in our research was that in cases in which the students ate the same amount of lunch and participated in a test preparation course even with there parents’ education level don’t play a factor in the parent’s level of education which is surprising because one would imagine that a parent with a higher level of education would encourage their child to take the test preparation course and a suitable lunch.
 #Comparing student's parent's education with weather or not the student ate lunch
-
+![image](https://user-images.githubusercontent.com/90408609/144954002-544b5210-fcf1-4f06-b2bf-1cded7048c3b.png)
 
 One more interesting finding in our research was how much lunch affects both the writing and reading of the students and how the students who have a reduced lunch usually have a lower grade on there tests while the students who have a standard lunch tend to do better in the test because they a full of energy from a good meal and the students with a reduced meal didn’t get enough lunch to fully concentrate on the tests
 
 #Comparing student's writing grade with weather or not they eat a proper lunch
+![image](https://user-images.githubusercontent.com/90408609/144953989-a744093c-a9fe-44d3-9983-58117623cbb0.png)
 
 #Comparing student's reading grade with weather or not they eat a proper lunch
+![image](https://user-images.githubusercontent.com/90408609/144954020-89b47832-ff1d-463e-9679-8e6883a393f5.png)
 
 
 Conclusion:
