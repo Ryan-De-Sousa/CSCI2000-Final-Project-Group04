@@ -5,18 +5,19 @@ Ryan, Ebube, Joy
 
 Introduction:
 
-Many students are affected by many things in their daily lives and studies were made to prove this. This study shows that the studentsí performance in their exams can be affected by their gender, race/ethnicity, parental level of education, lunch, and their preparation for their exams. This dataset provides statistical measures to prove what affects the performance of the students in their exams and it was taken from Kaggle datasets: https. It was on the second list, the thirteenth and it was updated three years ago by Jakki Seshapanpu. Every person who is ëdifferentí than what the society measures as normal is subjected mostly to mental abuse. Mental health is a guaranteed effect in the studentís performance in their exams, and all the effects stated above affects the studentís mental health.
+Many students are affected by many things in their daily lives and studies were made to prove this. This study shows that the students‚Äô performance in their exams can be affected by their gender, race/ethnicity, parental level of education, lunch, and their preparation for their exams. This dataset provides statistical measures to prove what affects the performance of the students in their exams and it was taken from Kaggle datasets: https. It was on the second list, the thirteenth and it was updated three years ago by Jakki Seshapanpu. Every person who is ‚Äòdifferent‚Äô than what the society measures as normal is subjected mostly to mental abuse. Mental health is a guaranteed effect in the student‚Äôs performance in their exams, and all the effects stated above affects the student‚Äôs mental health.
 
 Discussion:
-One of the interesting findings of our research would have to be how little influence a parentís education actually affects how their child performs in tests and assessments like the students whose parents have some high school education tend to do worse in math while the students whose parents have a masterís degree tend to better in math which are few and the rest of the students have an average of 60-70%
+One of the interesting findings of our research would have to be how little influence a parent‚Äôs education actually affects how their child performs in tests and assessments like the students whose parents have some high school education tend to do worse in math while the students whose parents have a master‚Äôs degree tend to better in math which are few and the rest of the students have an average of 60-70%
 
 #Comparing student's math grade with their parent's level of education
+![image](https://user-images.githubusercontent.com/90408609/144953886-40f2c222-c744-4faf-b3e8-df1d94d3cee9.png)
 
-Another interesting finding in our research was that in cases in which the students ate the same amount of lunch and participated in a test preparation course even with there parentsí education level donít play a factor in the parentís level of education which is surprising because one would imagine that a parent with a higher level of education would encourage their child to take the test preparation course and a suitable lunch.
+Another interesting finding in our research was that in cases in which the students ate the same amount of lunch and participated in a test preparation course even with there parents‚Äô education level don‚Äôt play a factor in the parent‚Äôs level of education which is surprising because one would imagine that a parent with a higher level of education would encourage their child to take the test preparation course and a suitable lunch.
 #Comparing student's parent's education with weather or not the student ate lunch
 
 
-One more interesting finding in our research was how much lunch affects both the writing and reading of the students and how the students who have a reduced lunch usually have a lower grade on there tests while the students who have a standard lunch tend to do better in the test because they a full of energy from a good meal and the students with a reduced meal didnít get enough lunch to fully concentrate on the tests
+One more interesting finding in our research was how much lunch affects both the writing and reading of the students and how the students who have a reduced lunch usually have a lower grade on there tests while the students who have a standard lunch tend to do better in the test because they a full of energy from a good meal and the students with a reduced meal didn‚Äôt get enough lunch to fully concentrate on the tests
 
 #Comparing student's writing grade with weather or not they eat a proper lunch
 
@@ -25,12 +26,12 @@ One more interesting finding in our research was how much lunch affects both the
 
 Conclusion:
 
-In conclusion the analysis of this data helped us to understand what the main factors are behind a studentís test scores. We learned that the two most important factors are weather or not the student ate lunch that day and the test preparation they did, other smaller factors are the gender of the student and their race however they are not as significant. Surprisingly the parentís education did not play much of a role in a childís grades aside from the extremes in being when the parent has a masterís degree, or when the parent dropped out of high school. In order to improve the project the next steps would be to include more factors in the data such as the studentís attendance and past grades, these datapoints would help us to understand the influence of attendance to class as well as to see if the lower grades stem from the studentís current education or from past issues.
+In conclusion the analysis of this data helped us to understand what the main factors are behind a student‚Äôs test scores. We learned that the two most important factors are weather or not the student ate lunch that day and the test preparation they did, other smaller factors are the gender of the student and their race however they are not as significant. Surprisingly the parent‚Äôs education did not play much of a role in a child‚Äôs grades aside from the extremes in being when the parent has a master‚Äôs degree, or when the parent dropped out of high school. In order to improve the project the next steps would be to include more factors in the data such as the student‚Äôs attendance and past grades, these datapoints would help us to understand the influence of attendance to class as well as to see if the lower grades stem from the student‚Äôs current education or from past issues.
 
 Data from:
-Seshapanpu, J., 2018.†Students Performance in Exams. [online] Kaggle.com. Available at: <https://www.kaggle.com/spscientist/students-performance-in-exams/version/1?select=StudentsPerformance.csv> [Accessed 1 December 2021].
+Seshapanpu, J., 2018.¬†Students Performance in Exams. [online] Kaggle.com. Available at: <https://www.kaggle.com/spscientist/students-performance-in-exams/version/1?select=StudentsPerformance.csv> [Accessed 1 December 2021].
 
 Acknowledgements:
-This project was submitted as the final course project for CSCI 2000U ìScientific 
-Data Analysisî during Fall 2021. The authors certify that the work in this 
+This project was submitted as the final course project for CSCI 2000U ‚ÄúScientific 
+Data Analysis‚Äù during Fall 2021. The authors certify that the work in this 
 repository is original and that all appropriate resources are rightfully cited
